@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.jumbotron {
+  padding: 4rem 2rem;
+  margin-bottom: 2rem;
+  background-color: var(--bs-light);
+  border-radius: 0.3rem;
+}
+.background {
+  background-image: url("./assets/img/background.jpg");
+  background-size: cover;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+a:hover {
+  color: inherit;
+}
